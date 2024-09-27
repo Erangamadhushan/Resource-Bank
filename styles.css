@@ -37,6 +37,9 @@
                 text-align: center;
                 color: #000;
             }
+            .caption h2 {
+                color:#efbf21;
+            }
 
             .caption span.border {
                 background-color: #111;
