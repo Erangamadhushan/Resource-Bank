@@ -19,6 +19,7 @@
 <hr/>
 
 <h3 style="text-align-center">Color Generator</h3>
+<p><a href="https://maketintsandshades.com">Tint and Shade Generator</a></p>
 <hr/>
 
 <h3>Images Resources</h3>
