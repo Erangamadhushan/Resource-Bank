@@ -15,6 +15,7 @@
 <h3 style="text-align-center">JavaScript Service Provide  Library</h3>
 <p><a href="https://www.emailjs.com/">emailJs</a></p>
 <p><a href="https://cdnjs.com/libraries/animejs">AnimeJs</a></p>
+<p><a href="https://davidshimjs.github.io/qrcodejs/">qrcode.js</a></p>
 <hr/>
 
 <h3 style="text-align-center">Color Generator</h3>
