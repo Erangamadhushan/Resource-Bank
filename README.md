@@ -71,6 +71,8 @@
 <p><a href="https://ezgif.com
 ">ezgif.com free online animated GIF editor
  </a></p>
+ <p><a href="https://sweetalert2.github.io/">SweetAlert2-customizable alert library that replace default Javascript alerts.</a></p>
+ <p><a href="https://michalsnik.github.io/aos/">Animate On Scroll-AOS allow you to animate elements when they enter the viewport,enhancing user engagement with simple scroll-triggered animations</a></p>
  <hr/>
  <h3 style="text-align:center">Content Generators</h3>
 <p><a href="https://picsart.com/ai-content-generator/
