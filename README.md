@@ -1,4 +1,5 @@
 
+<!--End the html page here -->
 <h1>I'm Eranga Madhushan ,I'm a BCS Student at the University of Ruhuna, Sri Lanka.</h1>
 <h4>This repository create as a library for web Development Projects</h4>
 <h3 style="text-align:center;">Front-End Development</h3>
@@ -15,10 +16,18 @@
 <p><a href="https://github.com/public-apis/public-apis" target="_blank">Public API's git hub repository</a></p>
 <hr/>
 
+
 <h3 style="text-align-center" target="_blank">JavaScript Service Provide  Library</h3>
 <p><a href="https://www.emailjs.com/" target="_blank">emailJs</a></p>
 <p><a href="https://cdnjs.com/libraries/animejs" target="_blank">AnimeJs</a></p>
 <p><a href="https://davidshimjs.github.io/qrcodejs/" target="_blank">qrcode.js</a></p>
+
+<h3 style="text-align-center">JavaScript Service Provide  Library</h3>
+<p><a href="https://www.emailjs.com/">emailJs</a></p>
+<p><a href="https://cdnjs.com/libraries/animejs">AnimeJs</a></p>
+<p><a href="https://davidshimjs.github.io/qrcodejs/">qrcode.js</a></p>
+
+
 <hr/>
 
 <h3 style="text-align-center">Color Generator</h3>
@@ -63,6 +72,7 @@
 <p><a href="https://animate.style
 " target="_blank">Animate.css | A cross-browser library of CSS animations.
  </a></p>
+ <p><a href="https://animate.style">animate.css framework</p>
  <p><a href="https://bennettfeely.com/clippy/
  " target="_blank">Clippy — CSS clip-path maker</a></p>
 <p><a href="https://iconscout.com/lottie-animations/
@@ -80,6 +90,8 @@
 <p><a href="https://ezgif.com
 " target="_blank">ezgif.com free online animated GIF editor
  </a></p>
+ <p><a href="https://sweetalert2.github.io/">SweetAlert2-customizable alert library that replace default Javascript alerts.</a></p>
+ <p><a href="https://michalsnik.github.io/aos/">Animate On Scroll-AOS allow you to animate elements when they enter the viewport,enhancing user engagement with simple scroll-triggered animations</a></p>
  <hr/>
 
 
