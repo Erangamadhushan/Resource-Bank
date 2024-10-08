@@ -23,6 +23,7 @@
 
 <h3 style="text-align-center">Color Generator</h3>
 <p><a href="https://maketintsandshades.com" target="_blank">Tint and Shade Generator</a></p>
+<p><a href="https://uicolors.app/create" target="_blank">Tailwind CSS Color Generator</a></p>
 <hr/>
 
 
@@ -79,7 +80,6 @@
 <p><a href="https://ezgif.com
 " target="_blank">ezgif.com free online animated GIF editor
  </a></p>
-  <p><a href="https://uicolors.app/create" target="_blank">Tailwind CSS Color Generator</a></p>
  <hr/>
 
 
