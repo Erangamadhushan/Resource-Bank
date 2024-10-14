@@ -37,6 +37,16 @@
 <p><a href="https://tabler.io/icons" target="_blank">Tabler Icons</a></p>
 <p><a href="" target="_blank"></a></p>
 
+<p><a href="https://iconsax.io/" >iconsax icons library</a></p>
+<p><a href="https://feathericons.com/">Simply beautiful open source icons</a></p>
+<p><a href="https://lordicon.com/">Lordicon is a growing library</a></p>
+<h3>atlas icons</h3>
+<p><a href="https://github.com/Vectopus/Atlas-icons-font">View in Github</a></p>
+<p><a href="https://atlasicons.vectopus.com/">View in Web Site</p> 
+<br/>
+<p><a href="https://thenounproject.com/">Noun-Project Icons and Photos For Everything</a></p>
+
+
 <hr/>
 
 <h3>Images Resources</h3>
