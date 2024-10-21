@@ -22,11 +22,6 @@
 <p><a href="https://cdnjs.com/libraries/animejs" target="_blank">AnimeJs</a></p>
 <p><a href="https://davidshimjs.github.io/qrcodejs/" target="_blank">qrcode.js</a></p>
 
-<h3 style="text-align-center">JavaScript Service Provide  Library</h3>
-<p><a href="https://www.emailjs.com/">emailJs</a></p>
-<p><a href="https://cdnjs.com/libraries/animejs">AnimeJs</a></p>
-<p><a href="https://davidshimjs.github.io/qrcodejs/">qrcode.js</a></p>
-
 
 <hr/>
 
@@ -35,7 +30,24 @@
 <p><a href="https://uicolors.app/create" target="_blank">Tailwind CSS Color Generator</a></p>
 <hr/>
 
+<h3>Icons Resources</h3>
+<p><a href="https://lucide.dev/icons/" target="_blank">Lucide Icons</a></p>
+<p><a href="https://heroicons.com/" target="_blank">Heroicons</a></p>
+<p><a href="https://akveo.github.io/eva-icons/" target="_blank">Eva Icons</a></p>
+<p><a href="https://tabler.io/icons" target="_blank">Tabler Icons</a></p>
+<p><a href="" target="_blank"></a></p>
 
+<p><a href="https://iconsax.io/" >iconsax icons library</a></p>
+<p><a href="https://feathericons.com/">Simply beautiful open source icons</a></p>
+<p><a href="https://lordicon.com/">Lordicon is a growing library</a></p>
+<h3>atlas icons</h3>
+<p><a href="https://github.com/Vectopus/Atlas-icons-font">View in Github</a></p>
+<p><a href="https://atlasicons.vectopus.com/">View in Web Site</p> 
+<br/>
+<p><a href="https://thenounproject.com/">Noun-Project Icons and Photos For Everything</a></p>
+
+
+<hr/>
 
 <h3>Images Resources</h3>
 <p><a href="https://www.stickpng.com" target="_blank"> Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG
