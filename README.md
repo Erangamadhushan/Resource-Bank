@@ -31,6 +31,19 @@
 <h3>Images Resources</h3>
 <p><a href="https://www.stickpng.com" target="_blank"> Free Transparent PNG Images, Stickers & No Background Clipart - StickPNG
 </a></p>
+<p><a href="https://www.unsplash.com" target="_blank">Unsplash Web-The internet’s source for visuals.
+Powered by creators everywhere.</a></p>
+<p><a href="https://www.pexels.com/" target="_blank">The best free stock photos, royalty free images & videos shared by creators.</a></p>
+<p><a href="https://www.pixabay.com/" target="_blank">Stunning royalty-free images & royalty-free stock
+Over 5.1 million+ high quality stock images, videos and music shared by our talented community.</a></p>
+<p><a href="https://www.kaboompics.com/" target="_blank">Let’s find the perfect
+free photo for you</a></p>
+<p><a href="https://www.freepik.com/" target="_blank">High-quality photos, videos, vectors, PSD, AI images, icons... to go from ideas to outstanding designs</a></p>
+<p><a href="https://www.burst.shopify.com/" target="_blank">Free stock photos and royalty-free images
+Download stunning photos for websites and commercial use</a></p>
+<p><a href="https://www.stockvault.net/" target="_blank">FREE STOCK IMAGES
+NEW PHOTOS, TEXTURES & ILLUSTRATIONS ADDED EVERY DAY!</a></p>
+<p><a href="" target="_blank"></a></p>
 <p><a href="https://www.freeimages.com/icon
 " target="_blank">Free Icons & Icon Packs | SVG, PNG, ICO, ICNS | FreeImages </a>
 </p>
@@ -45,8 +58,7 @@
 " target="_blank">Generate Mesh Gradients | Customize & Free Export PNG
  </a></p>
 <p><a href="https://coolbackgrounds.io" target="_blank">Cool Backgrounds </a></p>
-<p><a href="https://illustrationkit.com/illustrations/
-" target="_blank">Yippy Illustrations | Illustration Kit </a></p>
+
 <p><a href="https://meshgradient.in
 " target="_blank">Generate Mesh Gradients | Customize & Free Export PNG
  </a></p>
@@ -57,8 +69,18 @@
  <p><a href="https://openart.ai/home" target="_blank">Openart.ai - AI image generator for free</a></p>
  <hr/>
 
+<h3 style="text-align:center;">Illustrations</h3>
+<p><a href="https://illustrationkit.com/illustrations/
+" target="_blank">Yippy Illustrations | Illustration Kit </a></p>
+<p><a href="https://www.opendoodles.com/">A Free Set of Open-Source Illustrations! </a></p>
+<p><a href="https://www.humaaans.com/">Mix-&-match illustrations of people with a design library</a></p>
+</hr>
 
+<h3 style="text-align:center;">3D Packs</h3>
+<p><a href="https://ui8.net/">Join a growing family of 842,231 designers and makers from around the world. </a></p>
+<p><a href="https://gumroad.com/3d/animating">gumroad.com </a></p>
 
+<hr/>
  <h3 style="text-align:center">CSS Properties Resources</h3>
 <p><a href="https://animate.style
 " target="_blank">Animate.css | A cross-browser library of CSS animations.
