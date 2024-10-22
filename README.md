@@ -136,6 +136,13 @@ NEW PHOTOS, TEXTURES & ILLUSTRATIONS ADDED EVERY DAY!</a></p>
 <p><a href="https://www.pinterest.com/">Pinterest.com </a></p>
 <p><a href="https://www.uplabs.com/">UpLabs.com </a></p>
 <p><a href="https://www.dribbble.com/">Get inspired by the work of millions of top-rated designers & agencies around the world. </a></p>
+
+<hr/>
+
+<h3 style="text-align:center;">Colors</h3>
+<p><a href="https://coolors.co/bd5d1a">Get useful color information like conversion, combinations, blindness simulation and more. </a></p>
+<p><a href="https://www.khroma.co/">Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save. </a></p>
+<p><a href=""> </a></p>
 <p><a href=""> </a></p>
 <hr/>
 
