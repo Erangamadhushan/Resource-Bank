@@ -160,6 +160,54 @@ NEW PHOTOS, TEXTURES & ILLUSTRATIONS ADDED EVERY DAY!</a></p>
  </a></p>
 
 
+ <div data-aos="fade-up" data-aos-anchor-placement="bottom-bottom" data-aos-duration="1000">
+    <h3 style="text-align:center">Useful Github Repositories</h3>
+        <p>
+            <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free Programming Books
+            </a>
+            <span>
+                It provides a huge selection of publicly accessible programming books,podcasts, adn even various types of online courses.
+            </span>
+        </p>
+        <p>
+            <a href="https://github.com/LeCoupa/awesome-cheatsheets" target="_blank">Awesome Cheatsheets
+            </a>
+            <span>
+                For well-known programming languages, frameworks and development tools, this repository contains  amazing cheatsheets.
+            </span>
+        </p>
+        <p>
+            <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Developer Roadmaps
+            </a>
+            <span>
+                You can choose from a variety of developer roadmaps in thes repository to study and technology you choose.
+            </span>
+        </p>
+        <p>
+            <a href="https://github.com/thedaviddias/Front-End-Checklist" target="_blank">Front-End-Checklist
+            </a>
+            <span>
+                A comprehensive list of essential elements to ensure a smooth launch and production of our website or HTML page.
+            </span>
+        </p>
+        <p>
+            <a href="https://github.com/practical-tutorials/project-based-learning" target="_blank">Project Based Learning
+            </a>
+            <span>
+                This repository contains a collection of links to various online projects that can help you advance your programming knowledge in many fields.
+            </span>
+        </p>
+        <p>
+            <a href="https://github.com/TheAlgorithms" target="_blank">The Algorithms
+            </a>
+            <span>
+                It is one of the best github repositories for learning data structures and algorithms using different languages.
+            </span>
+        </p>
+    
+</div>
+
+
  <h3 style="text-align:center;">Other Resources</h3>
 <p><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/
 " target="_blank">GitHub Profile Readme Generator | GitHub Profile Readme Generator
