@@ -1,7 +1,9 @@
 
 <!--End the html page here -->
-<h1>I'm Eranga Madhushan ,I'm a BCS Student at the University of Ruhuna, Sri Lanka.</h1>
-<h4>This repository create as a library for web Development Projects</h4>
+<h1>EM956 Support Community </h1>
+<img src="images/img.png" alt="community log" style="width:100%;max-width:100%;"/>
+<h4>This 
+repository create as a library for web Development Projects</h4>
 <h3 style="text-align:center;">Front-End Development</h3>
 <h1><a href="https://erangamadhushan.github.io/Resource-Bank/">Visit Site here</a></h1>
 <h5>For Fonts Properties</h5>
