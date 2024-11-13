@@ -14,6 +14,19 @@
     background-size: cover;
 
 }
+.loading {
+    width:100%;
+    height:100vh;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:999;
+    display:grid;
+    place-items:center;
+    background:#000000e9 url('./gif/loading.gif') center center no-repeat;
+}
+
+
 .bgimg-1 {
     background-image: url("images/greenbackground.jpg");
     min-height: 100%;
@@ -21,24 +34,28 @@
 
 .bgimg-2 {
     background-image: url("images/background4.png");
-    min-height: 400px;
+    min-height: 650px;
+    padding-bottom:1.2em;
 }
 
 .bgimg-3 {
     background-image: url("images/mesh-833.png");
-    min-height: 400px;
+    min-height: 600px;
 }
 
 .caption {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 30%;
     width: 100%;
     text-align: center;
     color: #000;
 }
 .caption h2 {
     color:#efbf21;
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
 }
 
 .caption span.border {
