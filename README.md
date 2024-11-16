@@ -215,4 +215,6 @@ NEW PHOTOS, TEXTURES & ILLUSTRATIONS ADDED EVERY DAY!</a></p>
 " target="_blank">GitHub Profile Readme Generator | GitHub Profile Readme Generator
  </a></p>
 
+<p><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates" target="_blank">GitHub Profile readme file template collection</a></p>
+
 <p><a href=""> </a></p>
