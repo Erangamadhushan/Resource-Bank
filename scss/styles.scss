@@ -47,6 +47,17 @@
     
     //background-image: url('../images/greenbackground.jpg');
 }
+.icon {
+    width:250px;
+    position:fixed;
+    bottom:20px;
+    right:0;
+    z-index:1001;
+    img {
+        width:200px;
+        height:100px;
+    }
+}
 
 
 // .bgimg-1, .bgimg-2, .bgimg-3 {

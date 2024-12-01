@@ -54,4 +54,16 @@ body {
   color: #fff;
   width: 100%;
   min-height: 90vh;
+}
+
+.icon {
+  width: 250px;
+  position: fixed;
+  bottom: 20px;
+  right: 0;
+  z-index: 1001;
+}
+.icon img {
+  width: 200px;
+  height: 100px;
 }/*# sourceMappingURL=styles.css.map */
