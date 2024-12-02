@@ -27,6 +27,11 @@ body {
   color: #6af352;
 }
 
+@media only screen and (max-device-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+}
 #popoverButton {
   z-index: 10001;
   position: fixed;

@@ -17,6 +17,11 @@
         color:#6af352;
     }
 }
+@media only screen and (max-device-width: 768px) {
+    body {
+        background-attachment: scroll;
+    }
+}
 
 
 #popoverButton {
