@@ -5,8 +5,6 @@
 }
 
 body {
-  max-width: 100%;
-  overflow-x:hidden;
   background-image: url("../images/greenbackground.jpg");
   background-attachment: fixed;
 }

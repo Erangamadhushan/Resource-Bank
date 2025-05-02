@@ -288,6 +288,20 @@ function loadPageContent() {
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-3 col-md-3 col-md-5 main-contents" data-aos="fade-zoomIn" data-aos-anchor-placement="bottom-bottom" data-aos-duration="1000">
+                <div class="d-flex flex-column">
+                    <div class="d-flex justify-content-center align-items-center flex-column text-white">
+                        <h3 class="text-center">React Components</h3>
+                        <p><a href="https://www.reactbits.dev/" target="_blank">GitHub Profile Readme Generator | GitHub Profile Readme Generator
+                        </a></p>
+                        <p><a href="https://react-icons.github.io/react-icons/" target="_blank">React Icons</a></p>
+                        <p><a href="https://magicui.design/docs/components/marquee" target="_blank">Magic UI</a></p>
+                        <p><a href="https://jsmastery.pro/" target="_blank">JS Mastery</a></p>
+                        <p><a href="https://magicui.design/docs" target="_blank">MagicUI React Components</a></p>
+                    </div>
+                </div>
+            </div>
         </div>
     `
 }
